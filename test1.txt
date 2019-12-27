@@ -1,1 +1,2 @@
 THis is test file using GIT CLI
+and making commit to the file
